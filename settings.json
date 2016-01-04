@@ -1,0 +1,10 @@
+﻿{
+    "namespace": "connectthedotsex-ns",
+    "keyname": "D1",
+    "key": "mBLQGWxSkRHg7f2eRCLonHUpNS+DY0iPHclxjf7Cmvk=",
+    "eventhubname": "ehdevices",
+    "guid": "5962B679-DEC7-4B56-9867-D04767D4F162",
+    "displayname": "BeagleBoneBlack",
+    "organization": "Private Lab",
+    "location":  "My Private Room"
+}

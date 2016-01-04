@@ -1,0 +1,10 @@
+{
+  "name": "AzureBeagleBoneBlack",
+  "version": "0.0.1",
+  "description": "Simple Node app sending data from BeagleBone Black to Azure IoT services",
+  "dependencies": {    
+    "beaglebone-io": "^1.3.0",
+    "crypto": "^0.0.3",
+    "moment": "^2.10.6"    
+  }
+}
